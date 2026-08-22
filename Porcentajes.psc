@@ -1,11 +1,13 @@
-Algoritmo Porcentajes
 	//Eduardo Diego Zaragoza 
-	//Determinar el porcentaje de hombres y de mujeres presentes en el curso de Algoritmos, si se conoce el nu?mero de hombres y mujeres que tiene.
+	//Determinamos el porcentaje de hombres y de mujeres presentes en el curso si conocemos el numero de hombres y mujeres que hay.
+
+Algoritmo Porcentajes
+
 	Definir nm,nh,pm,ph,total Como Real
 		
-		Escribir "¿Cuál es la cantidad de hombres que hay en tu curso: "
+		Escribir "Â¿CuÃ¡l es la cantidad de hombres que hay en tu curso: "
 		Leer nh
-		Escribir "¿Cuál es la cantidad de mujeres que hay en tu curso: "
+		Escribir "Â¿CuÃ¡l es la cantidad de mujeres que hay en tu curso: "
 		Leer nm
 		
 		total <- nh + nm
